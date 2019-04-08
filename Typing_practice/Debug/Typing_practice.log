@@ -1,0 +1,91 @@
+﻿  Source.cpp
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(75): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(76): error C3861: 'randomize': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(150): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(205): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(210): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(213): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(216): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(219): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(222): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(225): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(228): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(231): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(234): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(237): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(284): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(331): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(353): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(321): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(347): error C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(350): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(399): error C3861: 'wherex': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(399): error C3861: 'wherey': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(393): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(486): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(528): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(571): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(588): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(605): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(623): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(646): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(688): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(694): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(696): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(699): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(701): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(858): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(861): error C3861: 'clrscr': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(863): error C3861: 'gotoxy': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(865): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(867): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(869): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(871): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(873): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(874): error C3861: 'gotoxy': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(875): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(877): error C3861: 'gotoxy': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(878): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(884): error C3861: 'gotoxy': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(886): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(955): error C3861: 'random': identifier not found
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(957): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(985): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1018): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1043): error C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1047): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1126): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1139): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\garry\source\repos\typing_practice\typing_practice\source.cpp(1149): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
